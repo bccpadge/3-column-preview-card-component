@@ -120,6 +120,7 @@ body {
   font: var(--fs-body) var(--ff-lexend-deca);
   display: grid;
   place-content: center;
+  background-color: var(--clr-neutral-1);
 }
 
 p {
