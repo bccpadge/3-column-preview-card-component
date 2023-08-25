@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-html-and-css-91WCMbk9KT)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/3-column-preview-card-component/)
 
 ## My process
 
