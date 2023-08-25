@@ -127,7 +127,7 @@ p {
   line-height: 1.7;
 }
 
-figure {
+img {
   margin-block-end: 1.5rem;
 }
 
@@ -177,7 +177,6 @@ figure {
   --radius-lg: 2.5rem;
   display: inline-block;
   background-color: var(--clr-neutral-1);
-  mix-blend-mode: screen;
   text-decoration: none;
   padding: var(--space-2xs) var(--space-s);
   text-transform: capitalize;
