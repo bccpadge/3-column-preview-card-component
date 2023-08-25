@@ -190,15 +190,15 @@ figure {
   color: var(--clr-neutral-1);
 }
 
-[btn-sedans] {
+.btn-sedans {
   color: var(--clr-primary-0);
 }
 
-[btn-suvs] {
+.btn-suvs {
   color: var(--clr-primary-1);
 }
 
-[btn-luxury] {
+.btn-luxury {
   color: var(--clr-primary-2);
 }
 
@@ -223,7 +223,7 @@ figure {
   }
 
   .card__description {
-    margin-block-end: 5rem;
+    margin-block-end: 4.5rem;
   }
 
   .sedans {
