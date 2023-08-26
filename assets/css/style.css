@@ -133,7 +133,7 @@ img {
 
 /* card styles */
 .card__container {
-  width: min(90%, 58.125rem);
+  width: min(100% - 1rem, 58.125rem);
   margin-inline: auto;
   margin-block: var(--space-3xl);
 }
